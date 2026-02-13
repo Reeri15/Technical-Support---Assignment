@@ -10,32 +10,32 @@
 
 ---
 
-## 📌 Objective
+##  Objective
 The purpose of this task was to perform a basic system check, verify network status, simulate a common technical issue, and resolve it using standard troubleshooting steps.
 
 ---
 
-## 💻 System Information
+##  System Information
 
 **Operating System:** [Windows 10 / Windows 11 / Linux Distribution]  
 **Processor:** [Insert Processor Name]  
 **Installed RAM:** [Insert RAM Size]  
 **System Type:** [64-bit / 32-bit]
 
-📷 *Screenshot Included:* System Specifications
+ *Screenshot Included:* System Specifications
 
 ---
 
-## 🌐 Network Status Verification
+##  Network Status Verification
 
 **Network Type:** [WiFi / Ethernet]  
 **Initial Status:** Connected to network and internet working  
 
-📷 *Screenshot Included:* Network Status – Connected  
+ *Screenshot Included:* Network Status – Connected  
 
 ---
 
-## ⚠️ Issue Simulation
+##  Issue Simulation
 
 To simulate a common real-world technical issue, the internet connection was intentionally disrupted by turning off the WiFi connection.
 
@@ -43,11 +43,11 @@ To simulate a common real-world technical issue, the internet connection was int
 - No internet access  
 - Web pages failed to load  
 
-📷 *Screenshot Included:* Internet Disconnected / No Internet Access  
+ *Screenshot Included:* Internet Disconnected / No Internet Access  
 
 ---
 
-## 🛠️ Troubleshooting Steps Performed
+##  Troubleshooting Steps Performed
 
 1. Checked network connection status from system tray / settings  
 2. Confirmed WiFi was turned OFF  
